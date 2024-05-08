@@ -1,0 +1,3 @@
+[submodule "sapling-test"]
+	path = sapling-test
+	url = https://github.com/wingt/sapling-test
